@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeatherMohorn
 - 👀 I’m interested in blockchain technology and web apps.
 - 🌱 I’m currently learning front-end web development through Udacity.
-- 💞️ I’m looking to collaborate on projects for beginners. 
+- 💞️ I’m looking to collaborate on Lightspeed API.
 - 📫 How to reach me - here!
 
 <!---
